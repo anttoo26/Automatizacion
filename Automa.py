@@ -57,7 +57,7 @@ print(f"Archivo CSV guardado como {archivo_nuevo_csv}")
 smtp_server = 'smtp.office365.com'
 smtp_port = 587
 smtp_user = "anttoo-13@outlook.es"
-smtp_password = 'Maroon338*'
+smtp_password = ''
 
 # Lista de destinatarios
 destinatarios = ["anttoo-13@outlook.es"]
